@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Alfabe Ve Sayıları Öğreniyorum</string>
+    <!-- İngilizce Olarak yayınlayacağım Sadece Bitirme Projesi Olarak Sunacağım-->
+    <string name="AD_MOB_APPLICATION_ID">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="rate">Oyla</string>
+    <string name="share">Paylaş</string>
+    <string name="diger_uygulamalar">Diğer Uygulamalar</string>
+    <string name="send_feedback">Geri Bildirim</string>
+    <string name="privacy_policy">Gizlilik Politikası</string>
+    <string name="sound">Ses</string>
+</resources>

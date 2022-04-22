@@ -1,0 +1,2506 @@
+[
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\anim_bubble_anim.xml.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\anim\\bubble_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_vt_numbers.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\vt_numbers.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_karate.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\karate.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_c_cat.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\c_cat.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_o_orange.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\o_orange.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_nine_9.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\nine_9.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_chest.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\chest.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_a_apple.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\a_apple.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_asparagus.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\asparagus.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_dress.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\dress.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_knife.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\knife.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_full_screen.xml.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\layout\\activity_full_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_hairdresser.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\hairdresser.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_photographer.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\photographer.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_eleven_11.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\eleven_11.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_home_numbers.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\home_numbers.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_squash.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\squash.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_koala_bear.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\koala_bear.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_home_fruits.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\home_fruits.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_lettuce.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\lettuce.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_plane.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\plane.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_lock.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\lock.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_eraser.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\eraser.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_v.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\v.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_home_flower.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\home_flower.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_vulture.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\vulture.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_model.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\model.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_orchids.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\orchids.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_mechanics.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\mechanics.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_u_umbrella.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\u_umbrella.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_tomato.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\tomato.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_home_month.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\home_month.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_vt_month.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\vt_month.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_firefighter.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\firefighter.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_umbrella.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\umbrella.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_leg.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\leg.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_i.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\i.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_elephant.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\elephant.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_january.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\january.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_y_yak.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\y_yak.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_zero_0.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\zero_0.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_close_rate.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\ic_close_rate.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_h_horse.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\h_horse.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_b_ball.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\b_ball.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_fencing.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\fencing.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_chimpanzee.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\chimpanzee.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_jasmine.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\jasmine.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_ribonl.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\ribonl.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_parallelogram.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\parallelogram.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_decagon.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\decagon.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_wallet.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\wallet.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_bougainvillea.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\bougainvillea.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_kangaroo.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\kangaroo.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_thigh.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\thigh.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_petunia.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\petunia.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_w_watch.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\w_watch.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_cleaner.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\cleaner.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_accountant.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\accountant.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_yellow.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\yellow.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_blackberry.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\blackberry.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_e_elephant.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\e_elephant.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_d_dog.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\d_dog.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_engineer.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\engineer.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_shorts.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\shorts.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_sixteen_16.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\sixteen_16.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_skirt.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\skirt.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_train.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\train.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_scarf.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\scarf.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_march.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\march.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_q_queen.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\q_queen.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_five_5.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\five_5.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_vietnam.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\vietnam.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_watch.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\watch.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_rhinoceros.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\rhinoceros.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_singapore.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\singapore.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_purple_mallow.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\purple_mallow.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_morning_glory.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\morning_glory.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_canary.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\canary.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_filled.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\filled.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_chef.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\chef.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_t_train.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\t_train.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_bear.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\bear.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_k.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\k.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_pigeon.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\pigeon.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_ruler.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\ruler.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_jackal.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\jackal.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_z.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\z.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_judge.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\judge.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_chair.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\chair.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_seventeen_17.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\seventeen_17.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_fox.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\fox.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_home_sports.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\home_sports.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_dianthus.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\dianthus.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_vt_abcd.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\vt_abcd.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_waxwing.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\waxwing.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_thirteen_13.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\thirteen_13.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_brown.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\brown.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_spinach.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\spinach.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_home_vegetable.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\home_vegetable.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_e.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\e.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_knee.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\knee.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_poppy.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\poppy.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_buttercup.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\buttercup.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_student.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\student.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\layout_viewpager_layout.xml.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\layout\\viewpager_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_t.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\t.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_journalist.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\journalist.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_home_school.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\home_school.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_nerium_oleander.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\nerium_oleander.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_crow.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\crow.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_lavender.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\lavender.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_newspaper.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\newspaper.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_toucan.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\toucan.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_daisy.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\daisy.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_fire_truck.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\fire_truck.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_j_joker.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\j_joker.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_favorite.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\favorite.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_ambulance.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\ambulance.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_owl.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\owl.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_volume_on.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\btn_volume_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_home_day.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\home_day.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_hockey.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\hockey.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\anim_rotation.xml.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\anim\\rotation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_exam_listen_guess.xml.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\layout\\activity_exam_listen_guess.xml"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_brussels_sprouts.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\brussels_sprouts.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_bike.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\bike.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_receptionist.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\receptionist.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_author.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\author.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_gardient_top_bottom.xml.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\gardient_top_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_south_korea.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\south_korea.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_next_150.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\btn_next_150.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_n_nest.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\n_nest.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_square.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\square.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_belgium.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\belgium.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_pineapple.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\pineapple.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_vt_vegetable.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\vt_vegetable.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_painter.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\painter.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_p_parrot.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\p_parrot.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_phone.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_hair.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\hair.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_sofasofa.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\sofasofa.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_s_harfi.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\s_harfi.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_blueberry.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\blueberry.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_bucket.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\bucket.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_december.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\december.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_globe.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\globe.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_september.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\september.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_boat.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\boat.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_parrot.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\parrot.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_notebook.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\notebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_argentina.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\argentina.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_vt_shape.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\vt_shape.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_russia.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\russia.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_home_shape.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\home_shape.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_cup.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\cup.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_z_zebra.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\z_zebra.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_astronomer.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\astronomer.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_philippine.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\philippine.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_february.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\february.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_italy.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\italy.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_rhombus.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\rhombus.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_a.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\a.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_six_6.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\six_6.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_noodles.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\noodles.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_papaya.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\papaya.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_o.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\o.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\layout_card_list_start.xml.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\layout\\card_list_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_one_1.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\one_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_suit.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\suit.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_teacher.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\teacher.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_woodpecker.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\woodpecker.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_surfing.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\surfing.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_b.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\b.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_monkey.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\monkey.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_polygon.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\polygon.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_pizza.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\pizza.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_l_line.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\l_line.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_wolf.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\wolf.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_vt_day.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\vt_day.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_shoes.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\shoes.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_home_animal.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\home_animal.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_bar_stool.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\bar_stool.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_hornbill.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\hornbill.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_mobile_phone.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\mobile_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_string_beans.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\string_beans.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_periwinkle.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\periwinkle.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_france.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\france.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_black.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\black.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_heart.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\heart.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_i_icecream.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\i_icecream.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_toe.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\toe.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_diamond.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\diamond.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_swallow.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\swallow.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_vt_clothes.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\vt_clothes.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_tiger.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\tiger.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_jeans.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\jeans.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_view.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\bg_view.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_c.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\c.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_n.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\n.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_table.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\table.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_bricklayer.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\bricklayer.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_privacy_policy.xml.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\layout\\activity_privacy_policy.xml"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_eighteen_18.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\eighteen_18.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\anim_design_bottom_sheet_slide_out.xml.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_gloves.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\gloves.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_nurse.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\nurse.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_ribonr.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\ribonr.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_yogurt.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\yogurt.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_radish.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\radish.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_raccoon.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\raccoon.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_trapezoid.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\trapezoid.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_g_goat.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\g_goat.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_bread.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\bread.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_dictionary.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\dictionary.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_plumber.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\plumber.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_pyramid.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\pyramid.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_sphere.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\sphere.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_chocolate.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\chocolate.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_bottle.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\bottle.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_indonesia.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\indonesia.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_croatia.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\croatia.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_home_food.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\home_food.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_coffee.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\coffee.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_plum.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\plum.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_onion.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\onion.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\anim_bounce_amn.xml.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\anim\\bounce_amn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_television.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\television.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_l.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\l.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_otter.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\otter.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_glasses.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\glasses.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_gladiolus.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\gladiolus.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_wombat.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\wombat.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_cake.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\cake.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_crescent.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\crescent.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_home_body_parts.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\home_body_parts.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_april.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\april.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_badminton.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\badminton.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_spain.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\spain.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_football.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\football.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_home.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\btn_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_netherlands.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\netherlands.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_board.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\board.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_gardener.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\gardener.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_card_one.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\card_one.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_s_sun.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\s_sun.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_butter.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\butter.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_equestrian.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\equestrian.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_lemon.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\lemon.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_m.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\m.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_foot.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\foot.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_meerkat.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\meerkat.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_cockscomb.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\cockscomb.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\layout_card_sub_list_home.xml.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\layout\\card_sub_list_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_saudi_arabia.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\saudi_arabia.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_home_house.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\home_house.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_back.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\btn_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_subway.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\subway.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_main.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\bg_main.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_mushroom.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\mushroom.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_sub.xml.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\layout\\activity_sub.xml"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_lips.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\lips.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_red_panda.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\red_panda.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_june.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\june.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_setting.xml.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_panda.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\panda.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_archery.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\archery.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_stomach.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\stomach.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\anim_design_snackbar_in.xml.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_greece.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\greece.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_black_leopard.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\black_leopard.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_lychee.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\lychee.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_x.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\x.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_three_3.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\three_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_waiter.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\waiter.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_right_triangle.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\right_triangle.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_motorbike.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\motorbike.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_baseball.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\baseball.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_soda.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\soda.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_shirt.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\shirt.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_porcupine.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\porcupine.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_slipper.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\slipper.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_tailor.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\tailor.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_white.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\white.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_rice.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\rice.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_neck.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\neck.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_star.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\star.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_florist.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\florist.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_dustman.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\dustman.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_cheetah.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\cheetah.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_opossum.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\opossum.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_v_violin.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\v_violin.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_hibiscus.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\hibiscus.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_veterinarian.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\veterinarian.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_traffic_warden.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\traffic_warden.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_apple.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\apple.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_eye.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\eye.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_squirrel.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\squirrel.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_card_ones.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\card_ones.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_home_alphabet.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\home_alphabet.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_ankle.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\ankle.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_baker.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\baker.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_cauliflower.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\cauliflower.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_librarian.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\librarian.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_h.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\h.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\anim_design_snackbar_out.xml.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_lawyer.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\lawyer.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_jacket.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\jacket.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_violet.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\violet.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_malaysia.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\malaysia.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\anim_design_bottom_sheet_slide_in.xml.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_peaspeas.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\peaspeas.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_chess.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\chess.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_running.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\running.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\layout_card_item_related_list.xml.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\layout\\card_item_related_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_twelve_12.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\twelve_12.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_cuba.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\cuba.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_video_learning.xml.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\layout\\activity_video_learning.xml"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_compass.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\compass.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_home_color.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\home_color.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_red_cabbage.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\red_cabbage.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_gorilla.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\gorilla.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_duck.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\duck.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_volleyball.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\volleyball.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_w.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\w.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_home_jobs.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\home_jobs.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_germany.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\germany.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_bookcase.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\bookcase.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_scissors.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\scissors.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_rate.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\btn_rate.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_sweden.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\sweden.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_home_vehicle.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\home_vehicle.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_lion.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\lion.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_hexagon.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\hexagon.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_splash.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_card_threee.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\card_threee.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_ice_cream.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\ice_cream.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_grape.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\grape.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_august.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\august.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_driver.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\driver.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_overalls.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\overalls.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_vt_number.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\vt_number.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_vt_vehicle.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\vt_vehicle.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_canna.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\canna.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_kiwi.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\kiwi.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_card_fours.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\card_fours.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_myanmar.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\myanmar.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_triangle.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\triangle.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_dentist.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\dentist.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_setting.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\ic_setting.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_mongoose.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\mongoose.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_y.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\y.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_vt_abc.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\vt_abc.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_disclaimer.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\btn_disclaimer.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_empty.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\empty.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_skiing.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\skiing.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_imageb.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\imageb.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_sock.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\sock.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_bird_of_paradise.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\bird_of_paradise.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_hyena.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\hyena.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_aqua.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\aqua.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_strawberry.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\strawberry.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_blue.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\blue.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\anim_scale_up.xml.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\anim\\scale_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_welder.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\welder.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_belt.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\belt.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_seven_7.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\seven_7.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_pink.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\pink.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_vt_animal.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\vt_animal.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_red.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\red.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_cancel.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\cancel.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\layout_card_video_learning.xml.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\layout\\card_video_learning.xml"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_jaguar.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\jaguar.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_notification_icon.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\notification_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_july.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\july.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_hat.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\hat.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_home_geometry.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\home_geometry.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_police_car.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\police_car.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_back_150.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\btn_back_150.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_cucumber.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\cucumber.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_vt_color.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\vt_color.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_bed.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\bed.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_exit.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\btn_exit.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_deer.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\deer.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_card_twos.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\card_twos.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_watermelon.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\watermelon.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_computer.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\computer.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_bison.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\bison.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_chip.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\chip.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_card_two.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\card_two.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_pencil.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\pencil.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_pyjamas.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\pyjamas.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_j.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\j.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_home_country.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\home_country.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_windsurfing.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\windsurfing.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_ship.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\ship.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_video_play.xml.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\layout\\activity_video_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_rose.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\rose.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_cherry.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\cherry.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_m_monkey.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\m_monkey.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_hamburger.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\hamburger.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_orange.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\orange.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_soup.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\soup.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\layout_card_item_video_list.xml.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\layout\\card_item_video_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_elbow.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\elbow.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_arm.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\arm.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_bottom_borrder.xml.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\bottom_borrder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_cube.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\cube.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_pakistan.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\pakistan.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_sp.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\sp.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_peacock.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\peacock.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_dahlia.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\dahlia.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\layout_card_exam_answer.xml.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\layout\\card_exam_answer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_cambodia.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\cambodia.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_home_clothes.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\home_clothes.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_okra.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\okra.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_key.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\key.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_r_rabbit.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\r_rabbit.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_pilot.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\pilot.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_shoulder.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\shoulder.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_lapwing.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\lapwing.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_billiards.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\billiards.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_card_four.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\card_four.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_bus.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\bus.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_coin.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\coin.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_carpenter.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\carpenter.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_diving.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\diving.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_apricot.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\apricot.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_favorite2.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\favorite2.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_cuboid.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\cuboid.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_helicopter.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\helicopter.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_ear.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\ear.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_puffin.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\puffin.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_cougar.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\cougar.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_d.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\d.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_book.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\book.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_u.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\u.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_eagle.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\eagle.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_car.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\car.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_twenty_20.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\twenty_20.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_rectangle.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\rectangle.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_denmark.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\denmark.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_carrot.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\carrot.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_nectarine.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\nectarine.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_octagon.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\octagon.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_golf.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\golf.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_eggplant.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\eggplant.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_japan.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\japan.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_polar_bear.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\polar_bear.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_mint.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\mint.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_sweater.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\sweater.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_container_truck.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\container_truck.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_thumb.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\thumb.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_x_xylophone.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\x_xylophone.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_bowling.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\bowling.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_milk.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\milk.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_hoopoe.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\hoopoe.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_avocado.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\avocado.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_picture.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\picture.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_pen.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\pen.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_k_kite.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\k_kite.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_sunflower.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\sunflower.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_laos.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\laos.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_butcher.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\butcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_slate.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\slate.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_optician.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\optician.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_window.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\window.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_kingfisher.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\kingfisher.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_may.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\may.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_calendula.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\calendula.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_canoeing.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\canoeing.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_pharmacist.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\pharmacist.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_four_4.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\four_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\layout_item_notification_coll.xml.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\layout\\item_notification_coll.xml"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_tennis.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\tennis.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_home_alphabets.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\home_alphabets.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_p.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\p.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_beer.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\beer.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_juice.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\juice.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_nose.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\nose.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_eight_8.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\eight_8.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_doctor.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\doctor.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_peach.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\peach.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_pear.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\pear.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_thailand.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\thailand.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_england.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\england.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_sparrow.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\sparrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_lily.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\lily.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_lotus.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\lotus.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_quail.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\quail.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_potato.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\potato.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_dove.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\dove.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_blackcurrant.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\blackcurrant.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_soldier.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\soldier.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_indian.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\indian.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_fingers.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\fingers.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_q.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\q.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_peony.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\peony.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_door.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\door.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_fig.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\fig.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_passion.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\passion.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_swimming.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\swimming.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_tea.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\tea.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_united_states.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\united_states.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_clock.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\clock.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_pheasant.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\pheasant.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_card_three.jpg.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\card_three.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_scimitar_oryx.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\scimitar_oryx.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_volume_off.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\btn_volume_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_brush.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\brush.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_peahen.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\peahen.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_truck.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\truck.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_skateboarding.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\skateboarding.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_cylinder.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\cylinder.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_school_bag.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\school_bag.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_raspberry.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\raspberry.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_armchair.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\armchair.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_lifeguard.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\lifeguard.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_aster.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\aster.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_fifteen_15.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\fifteen_15.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_table_tennis.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\table_tennis.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_f_fish.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\f_fish.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_coconut.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\coconut.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_s.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\s.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_arrow.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_i_harfi.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\i_harfi.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_home_number.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\home_number.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_green.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\green.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_hippopotamus.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\hippopotamus.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_mirror.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\mirror.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_biscuits.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\biscuits.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_cone.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\cone.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_garlic.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\garlic.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_sound.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\btn_sound.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_u_harfi.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\u_harfi.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_judo.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\judo.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_c_harfi.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\c_harfi.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_wagtail.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\wagtail.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_daffodils.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\daffodils.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_tulips.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\tulips.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_o_harfi.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\o_harfi.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_architect.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\architect.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_mouth.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\mouth.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_basketball.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\basketball.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_farmer.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\farmer.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_nightingale.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\nightingale.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_electrician.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\electrician.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_two_2.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\two_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_exam_phonics.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\ic_exam_phonics.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_quince.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\quince.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_ham.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\ham.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\layout_card_list_home.xml.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\layout\\card_list_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_home_birds.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\home_birds.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_lime.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\lime.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_cycling.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\cycling.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_giraffe.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\giraffe.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_lecturer.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\lecturer.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_lilac.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\lilac.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_f.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\f.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_arum_lily.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\arum_lily.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_kite.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\kite.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_bathrobe.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\bathrobe.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_sandwich.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\sandwich.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_chipmuck.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\chipmuck.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_broccoli.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\broccoli.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_austria.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\austria.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_laptop.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\laptop.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_home_prepositions.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\home_prepositions.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_oval.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\oval.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_pentagon.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\pentagon.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_october.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\october.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_mexico.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\mexico.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\layout_item_notification_expand.xml.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\layout\\item_notification_expand.xml"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_robin.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\robin.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_water.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\water.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\layout_card_exam_phonics.xml.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\layout\\card_exam_phonics.xml"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_canada.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\canada.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_mynah.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\mynah.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_hedgehog.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\hedgehog.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_november.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\november.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_g.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\g.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_mango.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\mango.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_boot.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\boot.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_scientist.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\scientist.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_exam_question.xml.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\layout\\activity_exam_question.xml"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_map.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\map.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_cheese.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\cheese.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_fourteen_14.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\fourteen_14.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_desk.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\desk.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_r.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\r.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_prev_150.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\btn_prev_150.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_brazil.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\brazil.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_circle.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\circle.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_home_150.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\btn_home_150.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_ice_skating.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\ice_skating.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_list_video.xml.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\layout\\activity_list_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_vt_fruit.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\vt_fruit.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_nineteen_19.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\nineteen_19.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_ten_10.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\ten_10.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_portugal.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\portugal.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_ellipse.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\ellipse.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_turnip.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\turnip.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\anim_scale_down.xml.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\anim\\scale_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_zebra.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\zebra.png"
+    },
+    {
+        "merged": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\build\\intermediates\\merged_res\\debug\\drawable_glass.png.flat",
+        "source": "C:\\Users\\Death Racer\\Desktop\\KidsPlayLearning\\app\\src\\main\\res\\drawable\\glass.png"
+    }
+]

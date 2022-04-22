@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AD_MOB_APPLICATION_ID">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="app_name">Alfabe Ve Sayıları Öğreniyorum</string>
+    <string name="diger_uygulamalar">Diğer Uygulamalar</string>
+    <string name="privacy_policy">Gizlilik Politikası</string>
+    <string name="rate">Oyla</string>
+    <string name="send_feedback">Geri Bildirim</string>
+    <string name="share">Paylaş</string>
+    <string name="sound">Ses</string>
+</resources>

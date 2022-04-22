@@ -1,0 +1,650 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.kidsapp.childplay"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:5:5-79
+11-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:5:22-76
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:6:5-67
+12-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:6:22-64
+13
+14    <queries>
+14-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:8:5-12:15
+15        <intent>
+15-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:9:9-11:18
+16            <action android:name="com.google.android.youtube.api.service.START" />
+16-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:10:13-83
+16-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:10:21-80
+17        </intent>
+18        <!-- For browser content -->
+19        <intent>
+19-->[com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Death Racer\.gradle\caches\transforms-3\12b16bd5d4501a830b3adb64b503751e\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:31:9-37:18
+20            <action android:name="android.intent.action.VIEW" />
+20-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:42:17-69
+20-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:42:25-66
+21
+22            <category android:name="android.intent.category.BROWSABLE" />
+22-->[com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Death Racer\.gradle\caches\transforms-3\12b16bd5d4501a830b3adb64b503751e\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:34:13-74
+22-->[com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Death Racer\.gradle\caches\transforms-3\12b16bd5d4501a830b3adb64b503751e\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:34:23-71
+23
+24            <data android:scheme="https" />
+24-->[com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Death Racer\.gradle\caches\transforms-3\12b16bd5d4501a830b3adb64b503751e\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:36:13-44
+24-->[com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Death Racer\.gradle\caches\transforms-3\12b16bd5d4501a830b3adb64b503751e\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:36:19-41
+25        </intent> <!-- End of browser content -->
+26        <!-- For CustomTabsService -->
+27        <intent>
+27-->[com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Death Racer\.gradle\caches\transforms-3\12b16bd5d4501a830b3adb64b503751e\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:40:9-42:18
+28            <action android:name="android.support.customtabs.action.CustomTabsService" />
+28-->[com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Death Racer\.gradle\caches\transforms-3\12b16bd5d4501a830b3adb64b503751e\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:41:13-90
+28-->[com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Death Racer\.gradle\caches\transforms-3\12b16bd5d4501a830b3adb64b503751e\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:41:21-87
+29        </intent>
+30    </queries>
+31    <queries>
+31-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:8:5-12:15
+32        <intent>
+32-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:15:9-17:18
+33            <action android:name="android.intent.action.TTS_SERVICE" />
+33-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:16:13-72
+33-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:16:21-69
+34        </intent>
+35    </queries>
+36
+37    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+37-->[com.google.firebase:firebase-messaging:23.0.3] C:\Users\Death Racer\.gradle\caches\transforms-3\184a30b8685bd9ea1dd6fc5131ada5b2\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:26:5-68
+37-->[com.google.firebase:firebase-messaging:23.0.3] C:\Users\Death Racer\.gradle\caches\transforms-3\184a30b8685bd9ea1dd6fc5131ada5b2\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:26:22-65
+38    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+38-->[com.google.firebase:firebase-messaging:23.0.3] C:\Users\Death Racer\.gradle\caches\transforms-3\184a30b8685bd9ea1dd6fc5131ada5b2\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:28:5-82
+38-->[com.google.firebase:firebase-messaging:23.0.3] C:\Users\Death Racer\.gradle\caches\transforms-3\184a30b8685bd9ea1dd6fc5131ada5b2\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:28:22-79
+39    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+39-->[com.google.android.gms:play-services-measurement:20.1.2] C:\Users\Death Racer\.gradle\caches\transforms-3\a91eef3a3af067cbce4d01fee837d1de\transformed\jetified-play-services-measurement-20.1.2\AndroidManifest.xml:26:5-110
+39-->[com.google.android.gms:play-services-measurement:20.1.2] C:\Users\Death Racer\.gradle\caches\transforms-3\a91eef3a3af067cbce4d01fee837d1de\transformed\jetified-play-services-measurement-20.1.2\AndroidManifest.xml:26:22-107
+40    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+40-->[com.google.android.gms:play-services-measurement-api:20.1.2] C:\Users\Death Racer\.gradle\caches\transforms-3\bfad2efd65d82c98fcb0d503c0c3b98f\transformed\jetified-play-services-measurement-api-20.1.2\AndroidManifest.xml:25:5-79
+40-->[com.google.android.gms:play-services-measurement-api:20.1.2] C:\Users\Death Racer\.gradle\caches\transforms-3\bfad2efd65d82c98fcb0d503c0c3b98f\transformed\jetified-play-services-measurement-api-20.1.2\AndroidManifest.xml:25:22-76
+41    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+41-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:27:5-81
+41-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:27:22-78
+42    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+42-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:28:5-77
+42-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:28:22-74
+43
+44    <application
+44-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:21:5-99:19
+45        android:name="com.kidsapp.childplay.customclasses.AppControl"
+45-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:22:9-49
+46        android:allowBackup="false"
+46-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:23:9-36
+47        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+47-->[androidx.core:core:1.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\9bca58446001a18975550087b60663ec\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+48        android:debuggable="true"
+49        android:fullBackupContent="false"
+49-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:24:9-42
+50        android:fullBackupOnly="false"
+50-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:25:9-39
+51        android:hardwareAccelerated="true"
+51-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:26:9-43
+52        android:icon="@mipmap/ic_launcher"
+52-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:27:9-43
+53        android:label="@string/app_name"
+53-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:28:9-41
+54        android:largeHeap="true"
+54-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:29:9-33
+55        android:requestLegacyExternalStorage="true"
+55-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:30:9-52
+56        android:roundIcon="@mipmap/ic_launcher_round"
+56-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:31:9-54
+57        android:supportsRtl="true"
+57-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:32:9-35
+58        android:theme="@style/AppTheme"
+58-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:33:9-40
+59        android:usesCleartextTraffic="true" >
+59-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:34:9-44
+60        <activity
+60-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:36:9-46:20
+61            android:name="com.kidsapp.childplay.activity.SplashActivity"
+61-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:37:13-52
+62            android:exported="true"
+62-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:39:13-36
+63            android:screenOrientation="portrait" >
+63-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:38:13-49
+64            <intent-filter>
+64-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:40:13-45:29
+65                <action android:name="android.intent.action.MAIN" />
+65-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:41:17-69
+65-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:41:25-66
+66                <action android:name="android.intent.action.VIEW" />
+66-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:42:17-69
+66-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:42:25-66
+67
+68                <category android:name="android.intent.category.LAUNCHER" />
+68-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:44:17-77
+68-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:44:27-74
+69            </intent-filter>
+70        </activity>
+71        <activity
+71-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:47:9-49:52
+72            android:name="com.kidsapp.childplay.activity.MainActivity"
+72-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:48:13-50
+73            android:screenOrientation="portrait" />
+73-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:49:13-49
+74        <activity
+74-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:50:9-52:52
+75            android:name="com.kidsapp.childplay.activity.HomeActivity"
+75-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:51:13-50
+76            android:screenOrientation="portrait" />
+76-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:52:13-49
+77        <activity
+77-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:53:9-55:52
+78            android:name="com.kidsapp.childplay.activity.SubActivity"
+78-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:54:13-49
+79            android:screenOrientation="portrait" />
+79-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:55:13-49
+80        <activity
+80-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:56:9-58:52
+81            android:name="com.kidsapp.childplay.activity.FullScreenActivity"
+81-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:57:13-56
+82            android:screenOrientation="portrait" />
+82-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:58:13-49
+83        <activity
+83-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:59:9-61:52
+84            android:name="com.kidsapp.childplay.activity.exam.LookChooseActivity"
+84-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:60:13-61
+85            android:screenOrientation="portrait" />
+85-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:61:13-49
+86        <activity
+86-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:62:9-64:52
+87            android:name="com.kidsapp.childplay.activity.exam.ListenGuessActivity"
+87-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:63:13-62
+88            android:screenOrientation="portrait" />
+88-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:64:13-49
+89        <activity
+89-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:65:9-67:52
+90            android:name="com.kidsapp.childplay.activity.video.ListVideoActivity"
+90-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:66:13-61
+91            android:screenOrientation="portrait" />
+91-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:67:13-49
+92        <activity
+92-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:68:9-70:52
+93            android:name="com.kidsapp.childplay.activity.video.VideoLearningActivity"
+93-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:69:13-65
+94            android:screenOrientation="portrait" />
+94-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:70:13-49
+95        <activity
+95-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:71:9-74:80
+96            android:name="com.kidsapp.childplay.activity.video.VideoPlayActivity"
+96-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:72:13-61
+97            android:configChanges="orientation|screenSize"
+97-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:73:13-59
+98            android:theme="@android:style/Theme.Holo.NoActionBar.Fullscreen" />
+98-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:74:13-77
+99        <activity
+99-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:75:9-77:52
+100            android:name="com.kidsapp.childplay.activity.SettingActivity"
+100-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:76:13-53
+101            android:screenOrientation="portrait" />
+101-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:77:13-49
+102        <activity
+102-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:79:9-81:52
+103            android:name="com.kidsapp.childplay.activity.PrivacyPolicyActivity"
+103-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:80:13-59
+104            android:screenOrientation="portrait" />
+104-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:81:13-49
+105
+106        <service
+106-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:83:9-90:19
+107            android:name="com.kidsapp.childplay.pushnotification.MyFirebaseMessagingService"
+107-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:84:13-72
+108            android:exported="false" >
+108-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:85:13-37
+109            <intent-filter>
+109-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:86:13-89:29
+110                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+110-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:87:17-78
+110-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:87:25-75
+111                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+111-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:88:17-81
+111-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:88:25-78
+112            </intent-filter>
+113        </service>
+114
+115        <meta-data
+115-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:92:9-94:60
+116            android:name="com.google.android.gms.ads.APPLICATION_ID"
+116-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:93:13-69
+117            android:value="@string/AD_MOB_APPLICATION_ID" />
+117-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:94:13-58
+118        <meta-data
+118-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:96:9-122
+119            android:name="com.google.android.gms.version"
+119-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:96:20-65
+120            android:value="@integer/google_play_services_version" />
+120-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:96:66-119
+121
+122        <activity
+122-->[com.facebook.android:audience-network-sdk:6.2.1] C:\Users\Death Racer\.gradle\caches\transforms-3\eab09e2d04882e13de203ec3152b95de\transformed\jetified-audience-network-sdk-6.2.1\AndroidManifest.xml:15:9-19:75
+123            android:name="com.facebook.ads.AudienceNetworkActivity"
+123-->[com.facebook.android:audience-network-sdk:6.2.1] C:\Users\Death Racer\.gradle\caches\transforms-3\eab09e2d04882e13de203ec3152b95de\transformed\jetified-audience-network-sdk-6.2.1\AndroidManifest.xml:16:13-68
+124            android:configChanges="keyboardHidden|orientation|screenSize"
+124-->[com.facebook.android:audience-network-sdk:6.2.1] C:\Users\Death Racer\.gradle\caches\transforms-3\eab09e2d04882e13de203ec3152b95de\transformed\jetified-audience-network-sdk-6.2.1\AndroidManifest.xml:17:13-74
+125            android:exported="false"
+125-->[com.facebook.android:audience-network-sdk:6.2.1] C:\Users\Death Racer\.gradle\caches\transforms-3\eab09e2d04882e13de203ec3152b95de\transformed\jetified-audience-network-sdk-6.2.1\AndroidManifest.xml:18:13-37
+126            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+126-->[com.facebook.android:audience-network-sdk:6.2.1] C:\Users\Death Racer\.gradle\caches\transforms-3\eab09e2d04882e13de203ec3152b95de\transformed\jetified-audience-network-sdk-6.2.1\AndroidManifest.xml:19:13-72
+127
+128        <provider
+128-->[com.facebook.android:audience-network-sdk:6.2.1] C:\Users\Death Racer\.gradle\caches\transforms-3\eab09e2d04882e13de203ec3152b95de\transformed\jetified-audience-network-sdk-6.2.1\AndroidManifest.xml:21:9-24:40
+129            android:name="com.facebook.ads.AudienceNetworkContentProvider"
+129-->[com.facebook.android:audience-network-sdk:6.2.1] C:\Users\Death Racer\.gradle\caches\transforms-3\eab09e2d04882e13de203ec3152b95de\transformed\jetified-audience-network-sdk-6.2.1\AndroidManifest.xml:22:13-75
+130            android:authorities="com.kidsapp.childplay.AudienceNetworkContentProvider"
+130-->[com.facebook.android:audience-network-sdk:6.2.1] C:\Users\Death Racer\.gradle\caches\transforms-3\eab09e2d04882e13de203ec3152b95de\transformed\jetified-audience-network-sdk-6.2.1\AndroidManifest.xml:23:13-82
+131            android:exported="false" />
+131-->[com.facebook.android:audience-network-sdk:6.2.1] C:\Users\Death Racer\.gradle\caches\transforms-3\eab09e2d04882e13de203ec3152b95de\transformed\jetified-audience-network-sdk-6.2.1\AndroidManifest.xml:24:13-37
+132
+133        <receiver
+133-->[com.google.firebase:firebase-messaging:23.0.3] C:\Users\Death Racer\.gradle\caches\transforms-3\184a30b8685bd9ea1dd6fc5131ada5b2\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:31:9-38:20
+134            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+134-->[com.google.firebase:firebase-messaging:23.0.3] C:\Users\Death Racer\.gradle\caches\transforms-3\184a30b8685bd9ea1dd6fc5131ada5b2\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:32:13-78
+135            android:exported="true"
+135-->[com.google.firebase:firebase-messaging:23.0.3] C:\Users\Death Racer\.gradle\caches\transforms-3\184a30b8685bd9ea1dd6fc5131ada5b2\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:33:13-36
+136            android:permission="com.google.android.c2dm.permission.SEND" >
+136-->[com.google.firebase:firebase-messaging:23.0.3] C:\Users\Death Racer\.gradle\caches\transforms-3\184a30b8685bd9ea1dd6fc5131ada5b2\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:34:13-73
+137            <intent-filter>
+137-->[com.google.firebase:firebase-messaging:23.0.3] C:\Users\Death Racer\.gradle\caches\transforms-3\184a30b8685bd9ea1dd6fc5131ada5b2\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:35:13-37:29
+138                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+138-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:88:17-81
+138-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:88:25-78
+139            </intent-filter>
+140        </receiver>
+141        <!--
+142             FirebaseMessagingService performs security checks at runtime,
+143             but set to not exported to explicitly avoid allowing another app to call it.
+144        -->
+145        <service
+145-->[com.google.firebase:firebase-messaging:23.0.3] C:\Users\Death Racer\.gradle\caches\transforms-3\184a30b8685bd9ea1dd6fc5131ada5b2\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:44:9-51:19
+146            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+146-->[com.google.firebase:firebase-messaging:23.0.3] C:\Users\Death Racer\.gradle\caches\transforms-3\184a30b8685bd9ea1dd6fc5131ada5b2\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:45:13-82
+147            android:directBootAware="true"
+147-->[com.google.firebase:firebase-messaging:23.0.3] C:\Users\Death Racer\.gradle\caches\transforms-3\184a30b8685bd9ea1dd6fc5131ada5b2\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:46:13-43
+148            android:exported="false" >
+148-->[com.google.firebase:firebase-messaging:23.0.3] C:\Users\Death Racer\.gradle\caches\transforms-3\184a30b8685bd9ea1dd6fc5131ada5b2\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:47:13-37
+149            <intent-filter android:priority="-500" >
+149-->[com.google.firebase:firebase-messaging:23.0.3] C:\Users\Death Racer\.gradle\caches\transforms-3\184a30b8685bd9ea1dd6fc5131ada5b2\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:48:13-50:29
+149-->[com.google.firebase:firebase-messaging:23.0.3] C:\Users\Death Racer\.gradle\caches\transforms-3\184a30b8685bd9ea1dd6fc5131ada5b2\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:48:28-51
+150                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+150-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:87:17-78
+150-->C:\Users\Death Racer\Desktop\KidsPlayLearning\app\src\main\AndroidManifest.xml:87:25-75
+151            </intent-filter>
+152        </service>
+153        <service
+153-->[com.google.firebase:firebase-messaging:23.0.3] C:\Users\Death Racer\.gradle\caches\transforms-3\184a30b8685bd9ea1dd6fc5131ada5b2\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:52:9-58:19
+154            android:name="com.google.firebase.components.ComponentDiscoveryService"
+154-->[com.google.firebase:firebase-messaging:23.0.3] C:\Users\Death Racer\.gradle\caches\transforms-3\184a30b8685bd9ea1dd6fc5131ada5b2\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:53:13-84
+155            android:directBootAware="true"
+155-->[com.google.firebase:firebase-common:20.1.0] C:\Users\Death Racer\.gradle\caches\transforms-3\b9efa2dd6f542152ce57ea2372a12012\transformed\jetified-firebase-common-20.1.0\AndroidManifest.xml:35:13-43
+156            android:exported="false" >
+156-->[com.google.firebase:firebase-messaging:23.0.3] C:\Users\Death Racer\.gradle\caches\transforms-3\184a30b8685bd9ea1dd6fc5131ada5b2\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:54:13-37
+157            <meta-data
+157-->[com.google.firebase:firebase-messaging:23.0.3] C:\Users\Death Racer\.gradle\caches\transforms-3\184a30b8685bd9ea1dd6fc5131ada5b2\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:55:13-57:85
+158                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+158-->[com.google.firebase:firebase-messaging:23.0.3] C:\Users\Death Racer\.gradle\caches\transforms-3\184a30b8685bd9ea1dd6fc5131ada5b2\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:56:17-119
+159                android:value="com.google.firebase.components.ComponentRegistrar" />
+159-->[com.google.firebase:firebase-messaging:23.0.3] C:\Users\Death Racer\.gradle\caches\transforms-3\184a30b8685bd9ea1dd6fc5131ada5b2\transformed\jetified-firebase-messaging-23.0.3\AndroidManifest.xml:57:17-82
+160            <meta-data
+160-->[com.google.android.gms:play-services-measurement-api:20.1.2] C:\Users\Death Racer\.gradle\caches\transforms-3\bfad2efd65d82c98fcb0d503c0c3b98f\transformed\jetified-play-services-measurement-api-20.1.2\AndroidManifest.xml:31:13-33:85
+161                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+161-->[com.google.android.gms:play-services-measurement-api:20.1.2] C:\Users\Death Racer\.gradle\caches\transforms-3\bfad2efd65d82c98fcb0d503c0c3b98f\transformed\jetified-play-services-measurement-api-20.1.2\AndroidManifest.xml:32:17-139
+162                android:value="com.google.firebase.components.ComponentRegistrar" />
+162-->[com.google.android.gms:play-services-measurement-api:20.1.2] C:\Users\Death Racer\.gradle\caches\transforms-3\bfad2efd65d82c98fcb0d503c0c3b98f\transformed\jetified-play-services-measurement-api-20.1.2\AndroidManifest.xml:33:17-82
+163            <meta-data
+163-->[com.google.firebase:firebase-datatransport:18.1.2] C:\Users\Death Racer\.gradle\caches\transforms-3\fb230bbff9534c1beba0f5fb0671bb89\transformed\jetified-firebase-datatransport-18.1.2\AndroidManifest.xml:28:13-30:85
+164                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+164-->[com.google.firebase:firebase-datatransport:18.1.2] C:\Users\Death Racer\.gradle\caches\transforms-3\fb230bbff9534c1beba0f5fb0671bb89\transformed\jetified-firebase-datatransport-18.1.2\AndroidManifest.xml:29:17-115
+165                android:value="com.google.firebase.components.ComponentRegistrar" />
+165-->[com.google.firebase:firebase-datatransport:18.1.2] C:\Users\Death Racer\.gradle\caches\transforms-3\fb230bbff9534c1beba0f5fb0671bb89\transformed\jetified-firebase-datatransport-18.1.2\AndroidManifest.xml:30:17-82
+166            <meta-data
+166-->[com.google.firebase:firebase-installations:17.0.1] C:\Users\Death Racer\.gradle\caches\transforms-3\68a054d52ae5ff0eabe0790044c793d4\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:18:13-20:85
+167                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+167-->[com.google.firebase:firebase-installations:17.0.1] C:\Users\Death Racer\.gradle\caches\transforms-3\68a054d52ae5ff0eabe0790044c793d4\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:19:17-127
+168                android:value="com.google.firebase.components.ComponentRegistrar" />
+168-->[com.google.firebase:firebase-installations:17.0.1] C:\Users\Death Racer\.gradle\caches\transforms-3\68a054d52ae5ff0eabe0790044c793d4\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:20:17-82
+169        </service>
+170
+171        <receiver
+171-->[com.google.android.gms:play-services-measurement:20.1.2] C:\Users\Death Racer\.gradle\caches\transforms-3\a91eef3a3af067cbce4d01fee837d1de\transformed\jetified-play-services-measurement-20.1.2\AndroidManifest.xml:29:9-33:20
+172            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+172-->[com.google.android.gms:play-services-measurement:20.1.2] C:\Users\Death Racer\.gradle\caches\transforms-3\a91eef3a3af067cbce4d01fee837d1de\transformed\jetified-play-services-measurement-20.1.2\AndroidManifest.xml:30:13-85
+173            android:enabled="true"
+173-->[com.google.android.gms:play-services-measurement:20.1.2] C:\Users\Death Racer\.gradle\caches\transforms-3\a91eef3a3af067cbce4d01fee837d1de\transformed\jetified-play-services-measurement-20.1.2\AndroidManifest.xml:31:13-35
+174            android:exported="false" >
+174-->[com.google.android.gms:play-services-measurement:20.1.2] C:\Users\Death Racer\.gradle\caches\transforms-3\a91eef3a3af067cbce4d01fee837d1de\transformed\jetified-play-services-measurement-20.1.2\AndroidManifest.xml:32:13-37
+175        </receiver>
+176
+177        <service
+177-->[com.google.android.gms:play-services-measurement:20.1.2] C:\Users\Death Racer\.gradle\caches\transforms-3\a91eef3a3af067cbce4d01fee837d1de\transformed\jetified-play-services-measurement-20.1.2\AndroidManifest.xml:35:9-38:40
+178            android:name="com.google.android.gms.measurement.AppMeasurementService"
+178-->[com.google.android.gms:play-services-measurement:20.1.2] C:\Users\Death Racer\.gradle\caches\transforms-3\a91eef3a3af067cbce4d01fee837d1de\transformed\jetified-play-services-measurement-20.1.2\AndroidManifest.xml:36:13-84
+179            android:enabled="true"
+179-->[com.google.android.gms:play-services-measurement:20.1.2] C:\Users\Death Racer\.gradle\caches\transforms-3\a91eef3a3af067cbce4d01fee837d1de\transformed\jetified-play-services-measurement-20.1.2\AndroidManifest.xml:37:13-35
+180            android:exported="false" />
+180-->[com.google.android.gms:play-services-measurement:20.1.2] C:\Users\Death Racer\.gradle\caches\transforms-3\a91eef3a3af067cbce4d01fee837d1de\transformed\jetified-play-services-measurement-20.1.2\AndroidManifest.xml:38:13-37
+181        <service
+181-->[com.google.android.gms:play-services-measurement:20.1.2] C:\Users\Death Racer\.gradle\caches\transforms-3\a91eef3a3af067cbce4d01fee837d1de\transformed\jetified-play-services-measurement-20.1.2\AndroidManifest.xml:39:9-43:72
+182            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+182-->[com.google.android.gms:play-services-measurement:20.1.2] C:\Users\Death Racer\.gradle\caches\transforms-3\a91eef3a3af067cbce4d01fee837d1de\transformed\jetified-play-services-measurement-20.1.2\AndroidManifest.xml:40:13-87
+183            android:enabled="true"
+183-->[com.google.android.gms:play-services-measurement:20.1.2] C:\Users\Death Racer\.gradle\caches\transforms-3\a91eef3a3af067cbce4d01fee837d1de\transformed\jetified-play-services-measurement-20.1.2\AndroidManifest.xml:41:13-35
+184            android:exported="false"
+184-->[com.google.android.gms:play-services-measurement:20.1.2] C:\Users\Death Racer\.gradle\caches\transforms-3\a91eef3a3af067cbce4d01fee837d1de\transformed\jetified-play-services-measurement-20.1.2\AndroidManifest.xml:42:13-37
+185            android:permission="android.permission.BIND_JOB_SERVICE" />
+185-->[com.google.android.gms:play-services-measurement:20.1.2] C:\Users\Death Racer\.gradle\caches\transforms-3\a91eef3a3af067cbce4d01fee837d1de\transformed\jetified-play-services-measurement-20.1.2\AndroidManifest.xml:43:13-69
+186
+187        <activity
+187-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Death Racer\.gradle\caches\transforms-3\1cf968bfebf7da4b72eba7e61ee1a127\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+188            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+188-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Death Racer\.gradle\caches\transforms-3\1cf968bfebf7da4b72eba7e61ee1a127\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+189            android:exported="false"
+189-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Death Racer\.gradle\caches\transforms-3\1cf968bfebf7da4b72eba7e61ee1a127\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+190            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+190-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Death Racer\.gradle\caches\transforms-3\1cf968bfebf7da4b72eba7e61ee1a127\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+191
+192        <provider
+192-->[com.google.firebase:firebase-common:20.1.0] C:\Users\Death Racer\.gradle\caches\transforms-3\b9efa2dd6f542152ce57ea2372a12012\transformed\jetified-firebase-common-20.1.0\AndroidManifest.xml:26:9-31:39
+193            android:name="com.google.firebase.provider.FirebaseInitProvider"
+193-->[com.google.firebase:firebase-common:20.1.0] C:\Users\Death Racer\.gradle\caches\transforms-3\b9efa2dd6f542152ce57ea2372a12012\transformed\jetified-firebase-common-20.1.0\AndroidManifest.xml:27:13-77
+194            android:authorities="com.kidsapp.childplay.firebaseinitprovider"
+194-->[com.google.firebase:firebase-common:20.1.0] C:\Users\Death Racer\.gradle\caches\transforms-3\b9efa2dd6f542152ce57ea2372a12012\transformed\jetified-firebase-common-20.1.0\AndroidManifest.xml:28:13-72
+195            android:directBootAware="true"
+195-->[com.google.firebase:firebase-common:20.1.0] C:\Users\Death Racer\.gradle\caches\transforms-3\b9efa2dd6f542152ce57ea2372a12012\transformed\jetified-firebase-common-20.1.0\AndroidManifest.xml:29:13-43
+196            android:exported="false"
+196-->[com.google.firebase:firebase-common:20.1.0] C:\Users\Death Racer\.gradle\caches\transforms-3\b9efa2dd6f542152ce57ea2372a12012\transformed\jetified-firebase-common-20.1.0\AndroidManifest.xml:30:13-37
+197            android:initOrder="100" /> <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+197-->[com.google.firebase:firebase-common:20.1.0] C:\Users\Death Racer\.gradle\caches\transforms-3\b9efa2dd6f542152ce57ea2372a12012\transformed\jetified-firebase-common-20.1.0\AndroidManifest.xml:31:13-36
+198        <activity
+198-->[com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Death Racer\.gradle\caches\transforms-3\12b16bd5d4501a830b3adb64b503751e\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:49:9-53:64
+199            android:name="com.google.android.gms.ads.AdActivity"
+199-->[com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Death Racer\.gradle\caches\transforms-3\12b16bd5d4501a830b3adb64b503751e\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:50:13-65
+200            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+200-->[com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Death Racer\.gradle\caches\transforms-3\12b16bd5d4501a830b3adb64b503751e\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:51:13-122
+201            android:exported="false"
+201-->[com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Death Racer\.gradle\caches\transforms-3\12b16bd5d4501a830b3adb64b503751e\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:52:13-37
+202            android:theme="@android:style/Theme.Translucent" />
+202-->[com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Death Racer\.gradle\caches\transforms-3\12b16bd5d4501a830b3adb64b503751e\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:53:13-61
+203
+204        <provider
+204-->[com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Death Racer\.gradle\caches\transforms-3\12b16bd5d4501a830b3adb64b503751e\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:55:9-59:39
+205            android:name="com.google.android.gms.ads.MobileAdsInitProvider"
+205-->[com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Death Racer\.gradle\caches\transforms-3\12b16bd5d4501a830b3adb64b503751e\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:56:13-76
+206            android:authorities="com.kidsapp.childplay.mobileadsinitprovider"
+206-->[com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Death Racer\.gradle\caches\transforms-3\12b16bd5d4501a830b3adb64b503751e\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:57:13-73
+207            android:exported="false"
+207-->[com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Death Racer\.gradle\caches\transforms-3\12b16bd5d4501a830b3adb64b503751e\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:58:13-37
+208            android:initOrder="100" />
+208-->[com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Death Racer\.gradle\caches\transforms-3\12b16bd5d4501a830b3adb64b503751e\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:59:13-36
+209
+210        <service
+210-->[com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Death Racer\.gradle\caches\transforms-3\12b16bd5d4501a830b3adb64b503751e\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:61:9-64:40
+211            android:name="com.google.android.gms.ads.AdService"
+211-->[com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Death Racer\.gradle\caches\transforms-3\12b16bd5d4501a830b3adb64b503751e\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:62:13-64
+212            android:enabled="true"
+212-->[com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Death Racer\.gradle\caches\transforms-3\12b16bd5d4501a830b3adb64b503751e\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:63:13-35
+213            android:exported="false" />
+213-->[com.google.android.gms:play-services-ads-lite:20.6.0] C:\Users\Death Racer\.gradle\caches\transforms-3\12b16bd5d4501a830b3adb64b503751e\transformed\jetified-play-services-ads-lite-20.6.0\AndroidManifest.xml:64:13-37
+214
+215        <provider
+215-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Death Racer\.gradle\caches\transforms-3\88ed9196af40efe63eba27541e51a3da\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+216            android:name="androidx.startup.InitializationProvider"
+216-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Death Racer\.gradle\caches\transforms-3\88ed9196af40efe63eba27541e51a3da\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+217            android:authorities="com.kidsapp.childplay.androidx-startup"
+217-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Death Racer\.gradle\caches\transforms-3\88ed9196af40efe63eba27541e51a3da\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+218            android:exported="false" >
+218-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Death Racer\.gradle\caches\transforms-3\88ed9196af40efe63eba27541e51a3da\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+219            <meta-data
+219-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Death Racer\.gradle\caches\transforms-3\88ed9196af40efe63eba27541e51a3da\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+220                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+220-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Death Racer\.gradle\caches\transforms-3\88ed9196af40efe63eba27541e51a3da\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+221                android:value="androidx.startup" />
+221-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Death Racer\.gradle\caches\transforms-3\88ed9196af40efe63eba27541e51a3da\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+222            <meta-data
+222-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:36:13-38:52
+223                android:name="androidx.work.WorkManagerInitializer"
+223-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:37:17-68
+224                android:value="androidx.startup" />
+224-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:38:17-49
+225            <meta-data
+225-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Death Racer\.gradle\caches\transforms-3\d03328691b4a963e2afb0a29dba12594\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+226                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+226-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Death Racer\.gradle\caches\transforms-3\d03328691b4a963e2afb0a29dba12594\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+227                android:value="androidx.startup" />
+227-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Death Racer\.gradle\caches\transforms-3\d03328691b4a963e2afb0a29dba12594\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+228        </provider>
+229
+230        <service
+230-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:41:9-46:35
+231            android:name="androidx.work.impl.background.systemalarm.SystemAlarmService"
+231-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:42:13-88
+232            android:directBootAware="false"
+232-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:43:13-44
+233            android:enabled="@bool/enable_system_alarm_service_default"
+233-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:44:13-72
+234            android:exported="false" />
+234-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:45:13-37
+235        <service
+235-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:47:9-53:35
+236            android:name="androidx.work.impl.background.systemjob.SystemJobService"
+236-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:48:13-84
+237            android:directBootAware="false"
+237-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:49:13-44
+238            android:enabled="@bool/enable_system_job_service_default"
+238-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:50:13-70
+239            android:exported="true"
+239-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:51:13-36
+240            android:permission="android.permission.BIND_JOB_SERVICE" />
+240-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:52:13-69
+241        <service
+241-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:54:9-59:35
+242            android:name="androidx.work.impl.foreground.SystemForegroundService"
+242-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:55:13-81
+243            android:directBootAware="false"
+243-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:56:13-44
+244            android:enabled="@bool/enable_system_foreground_service_default"
+244-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:57:13-77
+245            android:exported="false" />
+245-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:58:13-37
+246
+247        <receiver
+247-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:61:9-66:35
+248            android:name="androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver"
+248-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:62:13-88
+249            android:directBootAware="false"
+249-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:63:13-44
+250            android:enabled="true"
+250-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:64:13-35
+251            android:exported="false" />
+251-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:65:13-37
+252        <receiver
+252-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:67:9-77:20
+253            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy"
+253-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:68:13-106
+254            android:directBootAware="false"
+254-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:69:13-44
+255            android:enabled="false"
+255-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:70:13-36
+256            android:exported="false" >
+256-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:71:13-37
+257            <intent-filter>
+257-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:73:13-76:29
+258                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+258-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:74:17-87
+258-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:74:25-84
+259                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
+259-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:75:17-90
+259-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:75:25-87
+260            </intent-filter>
+261        </receiver>
+262        <receiver
+262-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:78:9-88:20
+263            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy"
+263-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:79:13-104
+264            android:directBootAware="false"
+264-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:80:13-44
+265            android:enabled="false"
+265-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:81:13-36
+266            android:exported="false" >
+266-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:82:13-37
+267            <intent-filter>
+267-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:84:13-87:29
+268                <action android:name="android.intent.action.BATTERY_OKAY" />
+268-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:85:17-77
+268-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:85:25-74
+269                <action android:name="android.intent.action.BATTERY_LOW" />
+269-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:86:17-76
+269-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:86:25-73
+270            </intent-filter>
+271        </receiver>
+272        <receiver
+272-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:89:9-99:20
+273            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy"
+273-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:90:13-104
+274            android:directBootAware="false"
+274-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:91:13-44
+275            android:enabled="false"
+275-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:92:13-36
+276            android:exported="false" >
+276-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:93:13-37
+277            <intent-filter>
+277-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:95:13-98:29
+278                <action android:name="android.intent.action.DEVICE_STORAGE_LOW" />
+278-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:96:17-83
+278-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:96:25-80
+279                <action android:name="android.intent.action.DEVICE_STORAGE_OK" />
+279-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:97:17-82
+279-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:97:25-79
+280            </intent-filter>
+281        </receiver>
+282        <receiver
+282-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:100:9-109:20
+283            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy"
+283-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:101:13-103
+284            android:directBootAware="false"
+284-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:102:13-44
+285            android:enabled="false"
+285-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:103:13-36
+286            android:exported="false" >
+286-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:104:13-37
+287            <intent-filter>
+287-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:106:13-108:29
+288                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+288-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:107:17-79
+288-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:107:25-76
+289            </intent-filter>
+290        </receiver>
+291        <receiver
+291-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:110:9-121:20
+292            android:name="androidx.work.impl.background.systemalarm.RescheduleReceiver"
+292-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:111:13-88
+293            android:directBootAware="false"
+293-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:112:13-44
+294            android:enabled="false"
+294-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:113:13-36
+295            android:exported="false" >
+295-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:114:13-37
+296            <intent-filter>
+296-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:116:13-120:29
+297                <action android:name="android.intent.action.BOOT_COMPLETED" />
+297-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:117:17-79
+297-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:117:25-76
+298                <action android:name="android.intent.action.TIME_SET" />
+298-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:118:17-73
+298-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:118:25-70
+299                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+299-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:119:17-81
+299-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:119:25-78
+300            </intent-filter>
+301        </receiver>
+302        <receiver
+302-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:122:9-131:20
+303            android:name="androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver"
+303-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:123:13-99
+304            android:directBootAware="false"
+304-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:124:13-44
+305            android:enabled="@bool/enable_system_alarm_service_default"
+305-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:125:13-72
+306            android:exported="false" >
+306-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:126:13-37
+307            <intent-filter>
+307-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:128:13-130:29
+308                <action android:name="androidx.work.impl.background.systemalarm.UpdateProxies" />
+308-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:129:17-98
+308-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:129:25-95
+309            </intent-filter>
+310        </receiver>
+311        <receiver
+311-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:132:9-142:20
+312            android:name="androidx.work.impl.diagnostics.DiagnosticsReceiver"
+312-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:133:13-78
+313            android:directBootAware="false"
+313-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:134:13-44
+314            android:enabled="true"
+314-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:135:13-35
+315            android:exported="true"
+315-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:136:13-36
+316            android:permission="android.permission.DUMP" >
+316-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:137:13-57
+317            <intent-filter>
+317-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:139:13-141:29
+318                <action android:name="androidx.work.diagnostics.REQUEST_DIAGNOSTICS" />
+318-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:140:17-88
+318-->[androidx.work:work-runtime:2.7.0] C:\Users\Death Racer\.gradle\caches\transforms-3\337b0a840d484e4e80268f548dcc34d0\transformed\work-runtime-2.7.0\AndroidManifest.xml:140:25-85
+319            </intent-filter>
+320        </receiver>
+321
+322        <service
+322-->[com.google.android.datatransport:transport-backend-cct:3.1.3] C:\Users\Death Racer\.gradle\caches\transforms-3\adf5bb3cb0bb170aa84c5b35ca9ef05d\transformed\jetified-transport-backend-cct-3.1.3\AndroidManifest.xml:29:9-35:19
+323            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+323-->[com.google.android.datatransport:transport-backend-cct:3.1.3] C:\Users\Death Racer\.gradle\caches\transforms-3\adf5bb3cb0bb170aa84c5b35ca9ef05d\transformed\jetified-transport-backend-cct-3.1.3\AndroidManifest.xml:30:13-103
+324            android:exported="false" >
+324-->[com.google.android.datatransport:transport-backend-cct:3.1.3] C:\Users\Death Racer\.gradle\caches\transforms-3\adf5bb3cb0bb170aa84c5b35ca9ef05d\transformed\jetified-transport-backend-cct-3.1.3\AndroidManifest.xml:31:13-37
+325            <meta-data
+325-->[com.google.android.datatransport:transport-backend-cct:3.1.3] C:\Users\Death Racer\.gradle\caches\transforms-3\adf5bb3cb0bb170aa84c5b35ca9ef05d\transformed\jetified-transport-backend-cct-3.1.3\AndroidManifest.xml:32:13-34:39
+326                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+326-->[com.google.android.datatransport:transport-backend-cct:3.1.3] C:\Users\Death Racer\.gradle\caches\transforms-3\adf5bb3cb0bb170aa84c5b35ca9ef05d\transformed\jetified-transport-backend-cct-3.1.3\AndroidManifest.xml:33:17-94
+327                android:value="cct" />
+327-->[com.google.android.datatransport:transport-backend-cct:3.1.3] C:\Users\Death Racer\.gradle\caches\transforms-3\adf5bb3cb0bb170aa84c5b35ca9ef05d\transformed\jetified-transport-backend-cct-3.1.3\AndroidManifest.xml:34:17-36
+328        </service>
+329        <service
+329-->[com.google.android.datatransport:transport-runtime:3.1.3] C:\Users\Death Racer\.gradle\caches\transforms-3\81f9021ba8d0ad3a44204da888f1e8db\transformed\jetified-transport-runtime-3.1.3\AndroidManifest.xml:26:9-30:19
+330            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+330-->[com.google.android.datatransport:transport-runtime:3.1.3] C:\Users\Death Racer\.gradle\caches\transforms-3\81f9021ba8d0ad3a44204da888f1e8db\transformed\jetified-transport-runtime-3.1.3\AndroidManifest.xml:27:13-117
+331            android:exported="false"
+331-->[com.google.android.datatransport:transport-runtime:3.1.3] C:\Users\Death Racer\.gradle\caches\transforms-3\81f9021ba8d0ad3a44204da888f1e8db\transformed\jetified-transport-runtime-3.1.3\AndroidManifest.xml:28:13-37
+332            android:permission="android.permission.BIND_JOB_SERVICE" >
+332-->[com.google.android.datatransport:transport-runtime:3.1.3] C:\Users\Death Racer\.gradle\caches\transforms-3\81f9021ba8d0ad3a44204da888f1e8db\transformed\jetified-transport-runtime-3.1.3\AndroidManifest.xml:29:13-69
+333        </service>
+334
+335        <receiver
+335-->[com.google.android.datatransport:transport-runtime:3.1.3] C:\Users\Death Racer\.gradle\caches\transforms-3\81f9021ba8d0ad3a44204da888f1e8db\transformed\jetified-transport-runtime-3.1.3\AndroidManifest.xml:32:9-34:40
+336            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+336-->[com.google.android.datatransport:transport-runtime:3.1.3] C:\Users\Death Racer\.gradle\caches\transforms-3\81f9021ba8d0ad3a44204da888f1e8db\transformed\jetified-transport-runtime-3.1.3\AndroidManifest.xml:33:13-132
+337            android:exported="false" />
+337-->[com.google.android.datatransport:transport-runtime:3.1.3] C:\Users\Death Racer\.gradle\caches\transforms-3\81f9021ba8d0ad3a44204da888f1e8db\transformed\jetified-transport-runtime-3.1.3\AndroidManifest.xml:34:13-37
+338
+339        <service
+339-->[androidx.room:room-runtime:2.2.5] C:\Users\Death Racer\.gradle\caches\transforms-3\020ef499ba2afec1ac434f28bdaa9765\transformed\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+340            android:name="androidx.room.MultiInstanceInvalidationService"
+340-->[androidx.room:room-runtime:2.2.5] C:\Users\Death Racer\.gradle\caches\transforms-3\020ef499ba2afec1ac434f28bdaa9765\transformed\room-runtime-2.2.5\AndroidManifest.xml:26:13-74
+341            android:directBootAware="true"
+341-->[androidx.room:room-runtime:2.2.5] C:\Users\Death Racer\.gradle\caches\transforms-3\020ef499ba2afec1ac434f28bdaa9765\transformed\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+342            android:exported="false" />
+342-->[androidx.room:room-runtime:2.2.5] C:\Users\Death Racer\.gradle\caches\transforms-3\020ef499ba2afec1ac434f28bdaa9765\transformed\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+343    </application>
+344
+345</manifest>

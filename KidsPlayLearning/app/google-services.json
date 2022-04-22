@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "955576205527",
+    "firebase_url": "https://kadane-merodusukkalite.firebaseio.com",
+    "project_id": "kidsapp-childplaye",
+    "storage_bucket": "kidsapp-childplay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955576205527:android:b337978a50ce568944f092",
+        "android_client_info": {
+          "package_name": "kidsapp.childplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955576205527-vi07cn13b93eah0hsqqobqrgmi63bdc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK2aub8iuX0N-YnjlTeezveU1YvzfyEOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955576205527-vi07cn13b93eah0hsqqobqrgmi63bdc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
